@@ -1,0 +1,53 @@
+nav{
+    height: 100px;
+}
+.my-nav-brand{
+    font-size: 44px;
+    color: rgba(0, 0, 0, 0.692);
+    border-right: solid rgb(228, 228, 228) 1px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    margin-left: 10px;
+    
+}
+.my-nav-items{
+    border-right: solid rgb(228, 228, 228) 1px;
+    margin-right: -15px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.my-nav-item{
+    padding: 5px;
+}
+.my-nav-icon{
+    font-size: 12px;
+    margin-top: 10px;
+}
+.my-carousel{
+    height: 500px;
+}
+.my-caption{
+    margin: 120px;
+}
+.my-main-caption{
+    text-align: center;
+    font-size: 56px;
+}
+.my-secondary-caption{
+    font-size: 30px;
+}
+.my-call-today{
+    background-color: rgb(246, 246, 246);
+    padding-top: 38px;
+    padding-bottom: 33px;
+}
+.my-start-button{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 20px;
+    padding: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
